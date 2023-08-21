@@ -1,6 +1,16 @@
 ### Hi there 👋
 
 
+###
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Sales Management
+- 🌱 I’m currently learning Node.js
+- 💬 Ask me about DotNet
+- 📫 How to reach me: mohammed.gouali@gmail.com
+- ⚡ Fun fact: I'm funny
+-->
 
 <div align="center">
 
@@ -48,16 +58,3 @@
   </a>
 </div>
 
-###
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
