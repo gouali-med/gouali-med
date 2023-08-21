@@ -3,8 +3,6 @@
 
 ###
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Sales Management
 - 🌱 I’m currently learning Node.js
 - 💬 Ask me about DotNet
