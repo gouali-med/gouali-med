@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning Node.js
 - 💬 Ask me about DotNet
 - 📫 How to reach me: mohammed.gouali@gmail.com
-- ⚡ Fun fact: I'm funny
 -->
 
 <div align="center">
