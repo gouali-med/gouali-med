@@ -3,7 +3,7 @@
 
 ###
 
-- 🔭 I’m currently working on Sales Management
+- 🔭 I’m currently working on SASS project
 - 🌱 I’m currently learning Node.js
 - 💬 Ask me about DotNet
 - 📫 How to reach me: mohammed.gouali@gmail.com
